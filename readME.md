@@ -5,7 +5,7 @@ if you are 42 student, i believe 42's vscode (LINUX!!) "bruh momentos" and they 
 
 ## Prerequisites
 
-1. Download Visual Studio Code from the [official site](https://code.visualstudio.com/).
+1. Download Visual Studio Code from the [official site](https://code.visualstudio.com/). Please download the `.deb` package, not other than that.
 2. Rename the downloaded `.deb` package to `myvscode.deb`.
 3. Ensure the downloaded file is located in the `Downloads` directory for uniformity.
 
