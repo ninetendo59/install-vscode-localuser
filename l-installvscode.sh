@@ -1,5 +1,5 @@
 # Extract the .deb package
-dpkg-deb -x ~/Downloads/myvscode.deb ~/myvscode
+dpkg -x ~/Downloads/myvscode.deb ~/myvscode
 
 # Add alias to the shell configuration file
 if [[ $SHELL == *"zsh"* ]]; then
