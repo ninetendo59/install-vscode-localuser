@@ -1,6 +1,7 @@
 # Custom Visual Studio Code Installation Script
 
 This script helps you install a custom version of Visual Studio Code from a `.deb` package.
+if you are 42 student, i believe 42's vscode (LINUX!!) "bruh momentos" and they cant even allow us to update. I came an idea which you guys don't need to feel guilty to install vscode for your own.
 
 ## Prerequisites
 
